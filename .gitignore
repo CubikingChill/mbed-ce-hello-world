@@ -26,8 +26,9 @@ cmake-build-*/
 .idea/**/gradle.xml
 .idea/**/libraries
 
-# VS Code build dir
+# ONLY VS Code build dir
 build/
+!/mbed-os/**/
 
 # VS Code config files
 .vscode/
@@ -35,5 +36,9 @@ build/
 # Python stuff
 *.pyc
 
+# Python Virtual ENVironment
+mbed-os/venv
+
 # Mac stuff
 .DS_Store
+
