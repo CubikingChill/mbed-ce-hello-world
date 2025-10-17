@@ -27,8 +27,8 @@ cmake-build-*/
 .idea/**/libraries
 
 # ONLY VS Code build dir
-build/
-!/mbed-os/**/
+/build/
+
 
 # VS Code config files
 .vscode/
