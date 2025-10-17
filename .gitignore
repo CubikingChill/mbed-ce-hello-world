@@ -29,7 +29,6 @@ cmake-build-*/
 # ONLY VS Code build dir
 /build/
 
-
 # VS Code config files
 .vscode/
 
