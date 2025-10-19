@@ -35,7 +35,6 @@ cmake-build-*/
 # Python stuff
 *.pyc
 
-
 # Mac stuff
 .DS_Store
 
