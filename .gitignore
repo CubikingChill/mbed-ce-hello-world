@@ -35,8 +35,6 @@ cmake-build-*/
 # Python stuff
 *.pyc
 
-# Python Virtual ENVironment
-mbed-os/venv
 
 # Mac stuff
 .DS_Store
