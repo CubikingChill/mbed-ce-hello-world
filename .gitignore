@@ -26,8 +26,8 @@ cmake-build-*/
 .idea/**/gradle.xml
 .idea/**/libraries
 
-# VS Code build dir
-build/
+# ONLY VS Code build dir
+/build/
 
 # VS Code config files
 .vscode/
@@ -37,3 +37,4 @@ build/
 
 # Mac stuff
 .DS_Store
+
